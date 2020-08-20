@@ -1,7 +1,7 @@
 # https://www.hackerrank.com/challenges/python-division/problem
 
-a = 3
-b = 5
+a = int(input())
+b = int(input())
 
 print(b // a)
 print(b / a)

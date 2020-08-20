@@ -1,8 +1,8 @@
 # https://www.hackerrank.com/challenges/python-integers-come-in-all-sizes/problem
 
-a = 3
-b = 5
-c = 7
-d = 9
+a = int(input()) 
+b = int(input())
+c = int(input())
+d = int(input())
 
 print((a ** b) + (c ** d))
